@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b7517839c0011dcc2ab21839ba142c44",
-"assets/AssetManifest.bin.json": "8b3a87f3108017040361885f0491a94a",
-"assets/AssetManifest.json": "4865357303b461e5766b105d77898b39",
+const RESOURCES = {"assets/AssetManifest.bin": "62e36433b6b32bd3eda7681f3c6904f0",
+"assets/AssetManifest.bin.json": "05cf67f16a8d9267628b09e3631a443e",
+"assets/AssetManifest.json": "3dc9e65bbbbbd55aab97d2b5486b5458",
 "assets/assets/fonts/Cairo/Cairo-Bold.ttf": "80ada5fcee2d9415ee00ef7739eba6df",
 "assets/assets/fonts/Cairo/Cairo-Regular.ttf": "81b37df3b28d397659607391993eef22",
 "assets/assets/fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf": "332f82b1a8c1189bfe44102a3fe4dbab",
@@ -36,8 +36,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "b7517839c0011dcc2ab21839ba142c44
 "assets/assets/images/triange_icon.png": "086ab5ca50d3e558e3307ff009975083",
 "assets/FontManifest.json": "17bd5ace91236c97115f87c98a2150a3",
 "assets/fonts/MaterialIcons-Regular.otf": "39dacba078c7847b61b9031be48d1628",
-"assets/NOTICES": "d66f5ae8edcb04f769f9f959d91fd73d",
+"assets/NOTICES": "1dfe57e24f0f88e76a97ea007f19afcc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "088d57bc5172ba21afd70fcd83429955",
+"assets/packages/flutter_launcher_icons_lego/assets/lego/flutter_launcher_icons_lego/add.june": "39e32c1864a95983f78d2685094f77f2",
+"assets/packages/flutter_launcher_icons_lego/assets/lego/flutter_launcher_icons_lego/android.png": "b0e72c4ef0061350db79ed9faab48994",
+"assets/packages/flutter_launcher_icons_lego/assets/lego/flutter_launcher_icons_lego/ios.png": "2eb4759fef6a423374bb7895dc43cf4b",
+"assets/packages/flutter_launcher_icons_lego/assets/lego/flutter_launcher_icons_lego/web.png": "6a706102320b6a33158469d6b51e8ec7",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "eeefad5512dfbffba365ff0cde4d6e6f",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "f3307f62ddff94d2cd8b103daf8d1b0f",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "9d4cfa1d1aa29faeb5a5c2455991911d",
@@ -54,15 +58,15 @@ const RESOURCES = {"assets/AssetManifest.bin": "b7517839c0011dcc2ab21839ba142c44
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "93ac6a7c709f81898f3e6bea4d70c854",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "8ad1b5871c4495f5a4e8a5807adfd46c",
+"flutter_bootstrap.js": "19dd0f27719a2b99c4bbeec1503a25be",
 "icons/Icon-192.png": "9c6101a61689df0ea5259ca6baa17a86",
 "icons/Icon-512.png": "fb70badc6fd4b9ac4968c39a5e1eb82a",
 "icons/Icon-maskable-192.png": "9c6101a61689df0ea5259ca6baa17a86",
 "icons/Icon-maskable-512.png": "fb70badc6fd4b9ac4968c39a5e1eb82a",
 "index.html": "52792f354db3da25b344fa45d30dee8b",
 "/": "52792f354db3da25b344fa45d30dee8b",
-"main.dart.js": "c8f5e5fb8442fbde5beaf22c677e05a5",
-"manifest.json": "02cf0682d3c63928566df6bc151f0555",
+"main.dart.js": "b27b2b22e33ab4c0f446e2a6ae3150dc",
+"manifest.json": "9e74531baf2b021d2d1fbc787a266ee1",
 "version.json": "5787fb551bdf53fb280519d9cb19fac7"};
 // The application shell files that are downloaded before a service worker can
 // start.
